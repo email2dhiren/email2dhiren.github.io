@@ -1,5 +1,6 @@
-DHIRENDRA SINGH
+
 PROFILE  SUMMARY
+
 A motivated, hardworking, detail oriented, problem solving and deadline oriented professional to Design / Solutioning / Develop / Deploy / Scale / Operationalize Cloud-native / Mobile Apps / MicroServices under multi-cloud containerized Kubernetes Environments e.g. AWS / Azure / GCE etc. 
 Being a Product guy capable of presenting Proof of Values (PoV), Proof of Concept (PoC), Product Demo, Product Architecting, Client Interactions, Assess Risks, Story Point Estimation with validation using FP method, Roadmaps, PRDs, MRDs, Product Backlog Grooming.
 MOST RECENT TSKILLS
