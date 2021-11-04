@@ -5,16 +5,26 @@ A motivated, hardworking, detail oriented, problem solving and deadline oriented
 Being a Product guy capable of presenting Proof of Values (PoV), Proof of Concept (PoC), Product Demo, Product Architecting, Client Interactions, Assess Risks, Story Point Estimation with validation using FP method, Roadmaps, PRDs, MRDs, Product Backlog Grooming.
 MOST RECENT TSKILLS
  
-Domains handled in Past: Online Exam for various Government and Corporate Organizations, eCommerce, Retail, Recruitment
+Domains handled in Past 
+Online Exam for various Government and Corporate Organizations, eCommerce, Retail, Recruitment
+
 WORK EXPERIENCE
+
 NYSA   [ GM, OPERATIONS ]
+
 May 17 –  Ongoing
+
 Project: Online Examination Product based on  SaaS, used Java SpringBoot Micro Services with MySQL / Mongo / Redis in Cloud [AWS - EKS (Kubernetes)]
 Details: Conduct Online Exams Drives, Evaluate and Publish Results, Monitor Online Exam Conduction from WAR Room etc.
+
 Roles & Responsibilities: 
+
 	Responsible for Product Conceptualize, Design, Develop & Maintain for our Online Examination Product. 
+
 	Accountable for successful execution of the Exam Drive, Man Power Hiring & their Deployment, Payment Reconciliation and P&L.
+
 	Presales: PoC, Responses to RFPs/Tenders, Solutioning, Estimates
+
 WHOLESALE   BAZAR   [ PRODUCT HEAD ]
 Jan 15 – April 17
 Project:  eCommerce - Retail - Online Grocery startup. Used Java SpringBoot for its MicroServices / APIs with  MySQL / Mongo / Redis in Cloud
